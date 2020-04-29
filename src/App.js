@@ -59,7 +59,6 @@ function App() {
           </div>
         </div>
         ) : ('')}
-        <h1>Sunnergy</h1>
       </main>
       <footer>
       <a href='https://abhinavgor.netlify.com/'>Contact Me</a><br></br>
